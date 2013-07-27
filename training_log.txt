@@ -1,0 +1,30 @@
+>>>>>>>>>>train begins>>>>>>>>>>
+==> Palindrome_Partitioning.cpp <==
+//Attemp #1
+//from 	2013-7-27 10:05
+//to	2013-7-27 10:28
+//failed before small AC: CE*3 + RTE*1
+//failed before large AC: None
+
+==> Surrounded_Regions.cpp <==
+//Attemp #1
+//from 	2013-7-27 10:32
+//to	2013-7-27 10:53
+//failed before small AC: CE*1 + RTE*0 + WA*0
+//failed before large AC: None
+
+==> Path_Sum.cpp <==
+//Attemp #1
+//from 	2013-7-27 10:58
+//to	2013-7-27 11:08
+//failed before small AC: WA*3 + CE*1
+//failed before large AC: None
+
+<<<<<<<<<<train ends<<<<<<<<<<<
+
+
+
+
+>>>>>>>>>>train begins>>>>>>>>>>
+
+<<<<<<<<<<train ends<<<<<<<<<<<
