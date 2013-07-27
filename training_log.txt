@@ -1,4 +1,38 @@
->>>>>>>>>>train begins>>>>>>>>>>
+
+================================
+>>>>>>>>>>train #3 begins>>>>>>>>>>
+
+<<<<<<<<<<train #3 ends<<<<<<<<<<<
+================================
+
+================================
+>>>>>>>>>>train #2 begins>>>>>>>>>>
+==> Gray_Code.cpp <==
+//Attemp #1
+//from 	2013-7-27 22:05
+//to	2013-7-27 22:26
+//failed before small AC: CE*0 + RTE*2 + WA*1
+//failed before large AC: None
+
+==> Add_Binary.cpp <==
+//Attemp #1
+//from 	2013-7-27 22:28
+//to	2013-7-27 22:49
+//failed before small AC: CE*0 + RTE*0 + WA*2
+//failed before large AC: None
+
+==> Valid_Sudoku.cpp <==
+//Attemp #1
+//from 	2013-7-27 22:50
+//to	2013-7-27 23:19
+//failed before small AC: CE*0 + RTE*0 + WA*1
+//failed before large AC: None
+
+<<<<<<<<<<train #2 ends<<<<<<<<<<<<
+================================
+
+================================
+>>>>>>>>>>train #1 begins>>>>>>>>>>
 ==> Palindrome_Partitioning.cpp <==
 //Attemp #1
 //from 	2013-7-27 10:05
@@ -20,11 +54,9 @@
 //failed before small AC: WA*3 + CE*1
 //failed before large AC: None
 
-<<<<<<<<<<train ends<<<<<<<<<<<
+<<<<<<<<<<train #1 ends<<<<<<<<<<<
+================================
 
 
 
 
->>>>>>>>>>train begins>>>>>>>>>>
-
-<<<<<<<<<<train ends<<<<<<<<<<<
