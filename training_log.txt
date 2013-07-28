@@ -21,6 +21,12 @@
 //failed before small AC: CE* + RTE*1 + WA*1
 //failed before large AC: None
 
+==> Symmetric_Tree.cpp <==
+//Attemp #1
+//from 	2013-7-28 10:42
+//to	2013-7-28 10:51
+//failed before small AC: CE*0 + RTE*0 + WA*1
+//failed before large AC: None
 
 <<<<<<<<<<train #3 ends<<<<<<<<<<<
 ================================
