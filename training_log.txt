@@ -1,6 +1,26 @@
 
 ================================
+>>>>>>>>>>train #4 begins>>>>>>>>>>
+
+<<<<<<<<<<train #4 ends<<<<<<<<<<<
+================================
+
+================================
 >>>>>>>>>>train #3 begins>>>>>>>>>>
+==> Pascal's_Triangle.cpp <==
+//Attemp #1
+//from 	2013-7-28 10:24
+//to	2013-7-28 10:30
+//failed before small AC: CE*0 + RTE*0 + WA*0
+//failed before large AC: None
+
+==> Pascal's_Triangle_II.cpp <==
+//Attemp #1
+//from 	2013-7-28 10:33
+//to	2013-7-28 10:39
+//failed before small AC: CE* + RTE*1 + WA*1
+//failed before large AC: None
+
 
 <<<<<<<<<<train #3 ends<<<<<<<<<<<
 ================================
