@@ -9,11 +9,18 @@
 
 ================================
 >>>>>>>>>>train #4 begins>>>>>>>>>>
+==> Valid_Palindrome.cpp <==
+//Attemp #1
+//from 	2013-8-7 0:21
+//to	2013-8-7 0:37
+//failed before small AC: CE* + RTE* + WA*1 + TLE*1
+//failed before large AC: None
+
 ==> Path_Sum_II.cpp <==
 //Attemp #1
-//from 	2013-7-29 23:00
-//to	2013-7-29 23:06
-//failed before small AC: CE*1 + RTE*0 + WA*1
+//from 	2013-8-7 0:39
+//to	2013-8-7 0:45
+//failed before small AC: CE*1 + RTE*0 + WA*0
 //failed before large AC: None
 
 <<<<<<<<<<train #4 ends<<<<<<<<<<<
