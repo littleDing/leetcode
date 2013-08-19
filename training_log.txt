@@ -14,6 +14,27 @@
 //failed before small AC: CE*1 + RTE* + WA*1
 //failed before large AC: None
 
+==> Best_Time_to_Buy_and_Sell_Stock.cpp <==
+//Attemp #1
+//from 	2013-8-20 00:15
+//to	2013-8-20 00:20
+//failed before small AC: CE* + RTE*1 + WA
+//failed before large AC: None
+
+==> Best_Time_to_Buy_and_Sell_Stock_II.cpp <==
+//Attemp #1
+//from 	2013-8-20 00:22
+//to	2013-8-20 00:31
+//failed before small AC: CE* + RTE*0 + WA*1
+//failed before large AC: None
+
+==> Best_Time_to_Buy_and_Sell_Stock_III.cpp <==
+//Attemp #1
+//from 	2013-8-20 00:32
+//to	2013-8-20 00:43
+//failed before small AC: CE* + RTE*0 + WA*1
+//failed before large AC: None
+
 <<<<<<<<<<train #5 ends<<<<<<<<<<<
 ================================
 
