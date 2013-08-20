@@ -6,6 +6,20 @@
 ================================
 
 ================================
+>>>>>>>>>>train # begins>>>>>>>>>>
+==> Triangle.cpp <==
+//Attemp #1
+//from 	2013-8-21 00:44
+//to	2013-8-21 00:50
+//failed before small AC: CE* + RTE* + WA
+//failed before large AC: None
+
+
+<<<<<<<<<<train # ends<<<<<<<<<<<
+================================
+
+
+================================
 >>>>>>>>>>train #5 begins>>>>>>>>>>
 ==> Binary_Tree_Maximum_Path_Sum.cpp <==
 //Attemp #1
