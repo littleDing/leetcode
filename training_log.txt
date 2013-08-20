@@ -21,6 +21,13 @@
 //failed before small AC: CE*1 + RTE* + WA
 //failed before large AC: None
 
+==> Populating_Next_Right_Pointers_in_Each_Node_II.cpp <==
+//Attemp #1
+//from 	2013-8-21 1:13
+//to	2013-8-21 1:50
+//failed before small AC: CE* + RTE*1 + WA*3
+//failed before large AC: None
+
 <<<<<<<<<<train # ends<<<<<<<<<<<
 ================================
 
