@@ -7,13 +7,19 @@
 
 ================================
 >>>>>>>>>>train # begins>>>>>>>>>>
-
 ==> Distinct_Subsequences.cpp <==
 //Attemp #1
 //from 	2013-8-25 12:25
 //to	2013-8-25 16:33
 //failed before small AC: CE*4 + RTE*1 + WA*8 + TLE*1
 //failed before large AC: TLE*1
+
+==> Flatten_Binary_Tree_to_Linked_List.cpp <==
+//Attemp #1
+//from 	2013-7-27 16:39
+//to	2013-8-25 16:56
+//failed before small AC: CE* + RTE*1 + WA
+//failed before large AC: None
 
 
 <<<<<<<<<<train # ends<<<<<<<<<<<
