@@ -6,7 +6,7 @@
 ================================
 
 ================================
->>>>>>>>>>train # begins>>>>>>>>>>
+>>>>>>>>>>train #8 begins>>>>>>>>>>
 ==> Distinct_Subsequences.cpp <==
 //Attemp #1
 //from 	2013-8-25 12:25
@@ -21,8 +21,14 @@
 //failed before small AC: CE* + RTE*1 + WA
 //failed before large AC: None
 
+==> Balanced_Binary_Tree.cpp <==
+//A
+//from 	2013-7-27 16:56
+//to	2013-8-25 17:05
+//failed before small AC: CE*1 + RTE* + WA*1
+//failed before large AC: None
 
-<<<<<<<<<<train # ends<<<<<<<<<<<
+<<<<<<<<<<train #8 ends<<<<<<<<<<<
 ================================
 
 ================================
