@@ -7,6 +7,20 @@
 
 ================================
 >>>>>>>>>>train # begins>>>>>>>>>>
+
+==> Distinct_Subsequences.cpp <==
+//Attemp #1
+//from 	2013-8-25 12:25
+//to	2013-8-25 16:33
+//failed before small AC: CE*4 + RTE*1 + WA*8 + TLE*1
+//failed before large AC: TLE*1
+
+
+<<<<<<<<<<train # ends<<<<<<<<<<<
+================================
+
+================================
+>>>>>>>>>>train #7 begins>>>>>>>>>>
 ==> Triangle.cpp <==
 //Attemp #1
 //from 	2013-8-21 00:44
@@ -28,7 +42,7 @@
 //failed before small AC: CE* + RTE*1 + WA*3
 //failed before large AC: None
 
-<<<<<<<<<<train # ends<<<<<<<<<<<
+<<<<<<<<<<train #7 ends<<<<<<<<<<<
 ================================
 
 
