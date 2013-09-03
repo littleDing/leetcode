@@ -7,6 +7,25 @@
 
 
 ================================
+>>>>>>>>>>train #12 begins>>>>>>>>>>
+==> Validate_Binary_Search_Tree.cpp <==
+//Attemp #1
+//from  2013-09-03 17:06
+//to   2013-09-03 17:10
+//failed before small AC: CE*1 + RTE* + WA*2
+//failed before large AC: None
+
+
+==> Interleaving_String.cpp <==
+//Attemp #1
+//from  2013-09-04 01:39
+//to   2013-09-04 02:21
+//failed before small AC: CE*1 + RTE*2 + WA*3
+//failed before large AC: None
+<<<<<<<<<<train #12 ends<<<<<<<<<<<
+================================
+
+================================
 >>>>>>>>>>train #11 begins>>>>>>>>>>
 ==> Binary_Tree_Level_Order_Traversal.cpp <==
 //A
