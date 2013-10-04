@@ -16,6 +16,5 @@ else
 	touch $path
 	ddd=`date "+%Y-%m-%d %H:%M"`
 	cat template.cpp | sed 's/from.*/from	'"$ddd"'/g' | sed 's/to.*/to   '"$ddd"'/g' | sed 's/Attemp #1/Attemp #'$k'/g' > $path
-
-#	git add $path
+	git add $path
 fi
